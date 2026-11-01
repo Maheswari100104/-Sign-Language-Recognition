@@ -1,4 +1,4 @@
-🤟 AI-Based Sign Language Recognition and Speech Generation
+**AI-Based Sign Language Recognition and Speech Generation**
 📌 Project Overview
 
 Communication can be challenging when sign language users interact with people who are unfamiliar with sign language. This project aims to bridge that gap by using Artificial Intelligence, Computer Vision, and Deep Learning to recognize sign language alphabets in real time and convert them into text and speech.
@@ -228,8 +228,6 @@ Watch the project in action and see how AI transforms sign language into text an
 - 🔊 Letter-by-letter voice feedback
 - 🎙️ Complete sentence speech generation
 
-▶️ **Demo Video:** [*[LinkedIn video link here)](https://www.linkedin.com/posts/rajarajeswari-ramanathan-8a267865_artificialintelligence-computervision-deeplearning-ugcPost-7480141030093217792-iE_z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA3NifoBwRlq2hvG6fVZvo3a3A42zqW3IA8)*]
-
 ## 🚀 Future Enhancements
 
 - 🌍 Extend the system to recognize complete words and sentences.
@@ -256,15 +254,10 @@ Through this project, I gained hands-on experience in:
 
 ## 👩‍💻 About the Author
 
-Hi, I'm **Rajee**! 👋
+Hi, I'm **Maheswari**! 👋
 
 I'm an aspiring **AI & Data Science Engineer** with a passion for **Computer Vision, Deep Learning, and Machine Learning**. I enjoy building AI-powered applications that solve real-world problems while continuously learning and sharing my journey.
 
-### 📬 Connect with Me
-
-- 💼 **LinkedIn:** www.linkedin.com/in/rajarajeswari-ramanathan-8a267865
-- 💻 **GitHub:** https://github.com/rajicoding
-- 📧 **Email:** <raji5585@gmail.com>
 
 If you enjoyed this project, consider giving it a ⭐ and feel free to connect with me to discuss AI, Machine Learning, and Computer Vision!
 Connect with Me
