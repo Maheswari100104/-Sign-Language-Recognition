@@ -1,0 +1,39 @@
+﻿# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies and build files
+node_modules/
+dist/
+dist-ssr/
+build/
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Python cache folders
+__pycache__/
+
+# Backup files
+*.backup
+
+# Frontend dependencies
+frontend/node_modules/
